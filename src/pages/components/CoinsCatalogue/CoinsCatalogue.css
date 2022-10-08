@@ -1,0 +1,6 @@
+.coins-catalogues {
+    display:flex;
+    margin-top: 35px;
+    max-width: 1022px;
+    justify-content: space-between;
+}
